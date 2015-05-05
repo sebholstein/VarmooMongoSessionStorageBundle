@@ -1,3 +1,5 @@
+**DEPRECATED**
+
 Provides MongoDB Sessionstorage integration to your Symfony2 application.
 See [official website](http://bundles.varmoo.com/VarmooMongoSessionStorageBundle) for more information.
 
